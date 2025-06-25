@@ -18,7 +18,7 @@ https://www.python.org/downloads/
 ### Clone repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+git clone https://github.com/timdigga/subdomain_alive_checker.git
 cd YOUR_REPO_NAME
 ```
 # Install requirements
