@@ -19,7 +19,7 @@ https://www.python.org/downloads/
 
 ```bash
 git clone https://github.com/timdigga/subdomain_alive_checker.git
-cd YOUR_REPO_NAME
+cd subdomain_alive_checker
 ```
 # Install requirements
 ```bash
