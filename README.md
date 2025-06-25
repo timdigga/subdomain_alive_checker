@@ -33,3 +33,6 @@ go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
 Paste or import URLs into the app.
 Click Check URLs to start.
 Results will be shown and copyable.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=timdigga&show_icons=true&theme=transparent" alt="Timdigga's GitHub stats" />
+</p>
