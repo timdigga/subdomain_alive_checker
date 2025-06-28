@@ -1,4 +1,4 @@
+requests
 selenium
 webdriver-manager
-requests
 tk
