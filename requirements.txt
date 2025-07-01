@@ -1,4 +1,6 @@
+customtkinter
 requests
 selenium
 webdriver-manager
-tk
+urllib3
+matplotlib
